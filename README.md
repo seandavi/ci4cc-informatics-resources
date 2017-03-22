@@ -30,3 +30,12 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 ### Analytics
 
 ### Image Analysis
+
+## Data Platforms
+
+### Genomics
+
+### Clinical
+
+## Data Sharing and Open Data Efforts
+
