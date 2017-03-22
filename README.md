@@ -27,6 +27,8 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 
 ### Natural Language Processing
 
+- [Apache cTAKES](http://ctakes.apache.org/) - Apache cTAKES™ is a natural language processing system for extraction of information from electronic medical record clinical free-text. - [OSS]
+
 ### Analytics
 
 ### Image Analysis
