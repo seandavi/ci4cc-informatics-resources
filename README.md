@@ -22,3 +22,11 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 ### Databases and APIs
 
 - [SEER](https://seer.cancer.gov) - The Surveillance, Epidemiology, and End Results (SEER) Program of the National Cancer Institute provides information on cancer statistics in an effort to reduce the cancer burden among the U.S. population. - [Database, API]
+
+## Data Engineering and Analytics
+
+### Natural Language Processing
+
+### Analytics
+
+### Image Analysis
