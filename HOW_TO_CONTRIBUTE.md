@@ -1,11 +1,18 @@
 # How to contribute
 
-Contribution and suggestions are welcome! Simply fork this repository, make a change, and submit a pull request. Please ensure your pull request adheres to the following guidelines:
+Contribution and suggestions are welcome! To contribute:
+
+1. [Fork this repository](https://help.github.com/articles/fork-a-repo/).
+2. Add your resources using the suggested approach below.
+3. [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). 
+
+
+Please ensure your pull request adheres to the following guidelines:
 
 - This is an open source compilation, please check that the license of the software is suitable.
 - Please search previous suggestions before making a new one, as yours may be a duplicate.
 - Please make an individual pull request for each suggestion.
-- Use the following format: RESOURCE - [language(s)] - DESCRIPTION.
+- Use the following format: RESOURCE ([as a URL](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)) - DESCRIPTION - [tag1, tag2, tag3].
 - Keep descriptions short and simple.
 - End all descriptions with a full stop/period.
 - Order projects alphabetically within each category.
