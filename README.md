@@ -41,3 +41,7 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 
 ## Data Sharing and Open Data Efforts
 
+### Genomics
+
+- [List of open cancer variant databases](https://github.com/seandavi/awesome-cancer-variant-databases) - A community-maintained list of cancer variant databases, including some with evidence-based intervention data.
+
