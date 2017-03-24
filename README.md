@@ -40,7 +40,7 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 ### Clinical
 
 ## Data Sharing and Open Data Efforts
-- [NLM CDE Repository](https://www.nlm.nih.gov/cde/) - National Library of Medicine Common Data Elements Repositor 
+- [NLM CDE Repository](https://www.nlm.nih.gov/cde/) - National Library of Medicine Common Data Elements Repository 
 
 ### Genomics
 
