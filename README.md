@@ -31,7 +31,10 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 
 ### Analytics
 
-### Image Analysis
+### Image Informatics
+
+ - [3D Slicer](http://slicer.org) - 3D Slicer is an extensible open source software platform for medical image informatics, image processing, and three-dimensional visualization. - [Imaging, OSS]
+ - [dcmqi](https://github.com/QIICR/dcmqi) - DICOM for Quantitative Imaging (dcmqi)  is a free, open source library that implements conversion of the quantitative imaging analysis results stored in commonly used research formats into the standard [DICOM](http://dicom.nema.org/Dicom/about-DICOM.html) representation. - [Imaging, OSS, Standards]
 
 ## Data Platforms
 
