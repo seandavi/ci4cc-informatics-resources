@@ -36,11 +36,16 @@ This is a community-maintained list of resources that the [CI4CC organization](c
 - [3D Slicer](http://slicer.org) - 3D Slicer is an extensible open source software platform for medical image informatics, image processing, and three-dimensional visualization. - [Imaging, OSS]
 - [dcmqi](https://github.com/QIICR/dcmqi) - DICOM for Quantitative Imaging (dcmqi)  is a free, open source library that implements conversion of the quantitative imaging analysis results stored in commonly used research formats into the standard [DICOM](http://dicom.nema.org/Dicom/about-DICOM.html) representation. - [Imaging, OSS, Standards]
 - [ePAD](http://epad.stanford.edu) - open source web-based radiology image and annotation tool for cancer lesion assessment and radiomics. - [Imaging, OSS, Web]
-- [QIFP](http://qifp.stanford.edu) - freely available web based platform for executing pipelines of radiomics image processing. - [Imaging, OSS[
+- [QIFP](http://qifp.stanford.edu) - freely available web based platform for executing pipelines of radiomics image processing. - [Imaging, OSS]
+- [QuIP](https://sbu-bmi.github.io/quip_distro/) — Quantitative Imaging In Pathology (QUIP) is an integrated software platform designed to support analysis, management, and exploration of whole slide tissue images for cancer research. The QuIP software platform consists of a set of docker containers, which provide analysis execution and data management backend services, and web applications to load and visualize whole slide tissue images (stored in supported file formats)  and explore analysis results. - [Imaging, Pathology, OSS]
 
 ## Data Platforms
 
 ### Genomics
+- [Genomic Data Commons](https://portal.gdc.cancer.gov) - The NCI's Genomic Data Commons (GDC) provides the cancer research community with a unified data repository that enables data sharing across cancer genomic studies in support of precision medicine. - [Genomics, Clinical Data, Precision Oncology]
+
+### Imaging
+- [The Cancer Imaging Archive](https://cancerimagingarchive.net) - The Cancer Imaging Archive (TCIA) is NCI’s primary resource for acquiring, curating, managing and distributing images and related data to support Cancer Research. It contains multiple collections of imaging data, and associated non-imaging data for various cancer disease sites. - [Imaging, Precison Oncology, Pathology, Radiomics]
 
 ### Clinical
 
